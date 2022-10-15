@@ -1,4 +1,4 @@
-## Hi there 👋john Wise is here. 
+## Hi there 👋 john Wise is here. 
                 (Loading...)
  
 I prefer Amazon Web Services & DevOps Tools.
