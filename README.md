@@ -7,9 +7,11 @@ I prefer Amazon Web Services & DevOps Tools.
 
 AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible
 
-![banner resmi] (https://github.com/alexanderadam2022#)
 
 💬 Ask me about anything that you want to learn via LinkedIn
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=John Wise&show_icons=true&theme=radical)
+
 
 
 
