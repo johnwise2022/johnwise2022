@@ -10,7 +10,7 @@ AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, K
 
 💬 Ask me about anything that you want to learn via LinkedIn
 
-Here are some ideas to get you started:
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 Skills
