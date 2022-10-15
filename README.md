@@ -32,12 +32,6 @@ KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JIRA SOFTWARE, SLACK**
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
 </p>
 
-## 📊 Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=JohnWise&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnWise&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWise&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
-
 
 
 
