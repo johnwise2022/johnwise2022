@@ -1,7 +1,6 @@
 ### Hi there 👋john Wise is here. 
                 (Loading...)
  
-<!--
 **johnwise2022/johnwise2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I prefer Amazon Web Services & DevOps Tools.
 
