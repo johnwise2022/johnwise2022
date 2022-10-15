@@ -3,7 +3,7 @@
  
 I prefer Amazon Web Services & DevOps Tools.
 
-🌱 I’m addicted to learning and growing without stopping as the style of life
+🌱 I’m addicted to learning and growing without stopping as the style of life.
 
 💬 Ask me about anything that you want to learn via LinkedIn
 
