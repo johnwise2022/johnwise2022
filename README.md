@@ -1,7 +1,7 @@
-## Hi there 👋 john Wise is here. 
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> john Wise is here. 
                 (Loading...)
  
-I prefer Amazon Web Services & DevOps Tools.
+   I prefer Amazon Web Services & DevOps Tools.
 
 🌱 I’m addicted to learning and growing without stopping as the style of life.
 
