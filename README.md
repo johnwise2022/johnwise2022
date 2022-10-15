@@ -10,7 +10,8 @@ AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, K
 
 💬 Ask me about anything that you want to learn via LinkedIn
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=JohnWise&show_icons=true&theme=gradient) 
+ ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JohnWise&show_icons=true&theme=radical)
+
 
 
 
