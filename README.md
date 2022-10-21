@@ -14,9 +14,12 @@
 💬 Ask me about anything that you want to learn via LinkedIn
 
  ## :hammer_and_wrench: Skills
-**AWS; EC2, , Load Balancer ,Auto Scaling, S3, RDA, CloudFormation,  VPC, CloudFront, Elastic Beanstalk, Route 53
-**PYTHON, LINUX, GIT, GITHUB, GITLAB, VISUAL STUDIO CODE, SLACK
-**DEVOPS; KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JIRA SOFTWARE, **
+ 
+**AWS; EC2, , Load Balancer ,Auto Scaling, S3, RDA, CloudFormation,  VPC, CloudFront, Elastic Beanstalk, Route 53 **
+
+**PYTHON, LINUX, GIT, GITHUB, GITLAB, VISUAL STUDIO CODE, SLACK **
+
+**DEVOPS; KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JIRA SOFTWARE **
   
 ## 🚴 Skills 
 <p>
