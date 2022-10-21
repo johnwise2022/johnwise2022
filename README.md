@@ -14,10 +14,11 @@
 💬 Ask me about anything that you want to learn via LinkedIn
 
  ## :hammer_and_wrench: Skills
-**AWS, DEVOPS, PYTHON, LINUX, GIT, GITHUB, GITLAB, VISUAL STUDIO CODE,
-KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JIRA SOFTWARE, SLACK**
+**AWS; EC2, , Load Balancer ,Auto Scaling, S3, RDA, CloudFormation,  VPC, CloudFront, Elastic Beanstalk, Route 53
+**PYTHON, LINUX, GIT, GITHUB, GITLAB, VISUAL STUDIO CODE, SLACK
+**DEVOPS; KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JIRA SOFTWARE, **
   
-## 🚴 Skills
+## 🚴 Skills 
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="DevOps" width="100" height="48"/> </a> 
