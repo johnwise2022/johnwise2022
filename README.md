@@ -42,13 +42,12 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
 </p>
 
+
 ## 📊 Statistics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=johnwise2022&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnwise2022&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwise2022&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
-
-
 
 
 
