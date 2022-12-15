@@ -1,5 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> john Wise is here. 
-                (Loading...)
+               
+<p align="center">
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20GitHub%20profile;I%20am%20AWS%20Devops%20Engineer;+3%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=006400&vCenter=true&size=45%22"></a> 
+</p>
                 
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogan-oguz/) 
 <a href="https://johnwise2022.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=johnwise" alt="visitor counter" width="15%"/>
