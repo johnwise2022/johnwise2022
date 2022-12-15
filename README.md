@@ -1,5 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> john Wise is here. 
-               
+
+@@ -1,5 +1,5 @@              
 <p align="center">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20GitHub%20profile;I%20am%20AWS%20Devops%20Engineer;Solution%20Architect;+5%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=006400&vCenter=true&size=45%22"></a> 
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lilines=+Hi%2C%20welcome%20to%20my%20GitHub%20profile;I%20am%20AWS%20Devops%20Engineer;Solution%20Architect;+5%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=00FF00&vCenter=true&size=45%22"></a>
