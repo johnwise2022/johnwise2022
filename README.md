@@ -19,7 +19,7 @@
 
  ## :hammer_and_wrench: Skills
  
-**AWS; EC2, , Load Balancer ,Auto Scaling, S3, RDA, CloudFormation,  VPC, CloudFront, Elastic Beanstalk, Route 53 **
+**AWS; EC2, , Load Balancer ,Auto Scaling, S3, RDS, CloudFormation,  VPC, CloudFront, Elastic Beanstalk, Route 53 **
 
 **PYTHON, LINUX, GIT, GITHUB, GITLAB, VISUAL STUDIO CODE, SLACK **
 
