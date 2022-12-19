@@ -11,11 +11,11 @@
 
 ### What I'm using ? 🛠
  
-   I prefer Amazon Web Services & DevOps Tools.
+   Amazon Web Services & DevOps Tools are my choices.
 
- I like constantly learning , improving and sharing a lifestyle.
+ I like constantly learning , improving and sharing as a lifestyle.
 
-💬 Please contact me on LinkedIn to share about anything or produce a collaborative project, or for any help I can provide.
+💬 Please contact me on LinkedIn to share about anything or produce a collaborative project or for any help I can provide.
 
  ## :hammer_and_wrench: Skills
  
@@ -23,7 +23,7 @@
 
 **PYTHON, LINUX, GIT, GITHUB, GITLAB, VISUAL STUDIO CODE, SLACK **
 
-**DEVOPS; KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JENKINS, JIRA SOFTWARE **
+**DEVOPS; KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JENKINS, MAVEN, NEXUS, JIRA SOFTWARE **
   
 ## 🚴 Skills 
 <p>
