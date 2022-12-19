@@ -13,9 +13,9 @@
  
    I prefer Amazon Web Services & DevOps Tools.
 
-🌱 I’m addicted to learning and growing without stopping as the style of life.
+ I like constantly learning , improving and sharing a lifestyle.
 
-💬 Ask me about anything that you want to learn via LinkedIn
+💬 Please contact me on LinkedIn to share about anything or produce a collaborative project, or for any help I can provide.
 
  ## :hammer_and_wrench: Skills
  
