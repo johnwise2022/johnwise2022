@@ -11,9 +11,9 @@
 
 ### What I'm using ? 🛠
  
-   Amazon Web Services & DevOps Tools are my choices.
+Amazon Web Services & DevOps Tools are my choices.
 
- I like constantly learning , improving and sharing as a lifestyle.
+Continuous learning, development and sharing is a lifestyle for me..
 
 💬 Please contact me on LinkedIn to share about anything or produce a collaborative project or for any help I can provide.
 
