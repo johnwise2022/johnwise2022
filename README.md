@@ -15,7 +15,7 @@ Amazon Web Services & DevOps Tools are my choices.
 
 Continuous learning, development and sharing is a lifestyle for me..
 
-💬 Please contact me on LinkedIn to share about anything or produce a collaborative project or for any help I can provide.
+For information sharing or creating a collaborative project or any assist I can provide, please contact me on LinkedIn.
 
  ## :hammer_and_wrench: Skills
  
