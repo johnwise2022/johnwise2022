@@ -21,7 +21,7 @@ Continuous learning, development and sharing is a lifestyle for me..
  
 **AWS; EC2, , Load Balancer ,Auto Scaling, S3, RDS, CloudFormation,  VPC, CloudFront, Elastic Beanstalk, Route 53 **
 
-**PYTHON, LINUX, GIT, GITHUB, GITLAB, VISUAL STUDIO CODE, SLACK **
+**PYTHON, LINUX, GIT, GITHUB, VISUAL STUDIO CODE, SLACK **
 
 **DEVOPS; KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JENKINS, MAVEN, NEXUS, JIRA SOFTWARE **
   
