@@ -24,6 +24,12 @@ For information sharing or creating a collaborative project or any assist I can 
 **PYTHON, LINUX, GIT, GITHUB, VISUAL STUDIO CODE, SLACK **
 
 **DEVOPS; KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JENKINS, MAVEN, NEXUS, JIRA SOFTWARE **
+
+## <p>
+<p align="center">
+<img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOps-CI-CD.gif" width="300"/>
+</p>
+
   
 ## 🚴 Skills 
 <p>
