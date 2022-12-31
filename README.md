@@ -2,7 +2,7 @@
 
            
 <p align="center">
- <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20GitHub%20page;I%20am%20AWS%20Devops%20Engineer;Solution%20Architect;+5%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=FF0000&vCenter=true&size=45%22"></a>  
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20GitHub%20page;I%20am%20AWS%20Devops%20Engineer;Solution%20Architect;+5%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=00FF00&vCenter=true&size=45%22"></a>  
 </p>
                 
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogan-oguz/) 
