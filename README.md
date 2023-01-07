@@ -9,11 +9,14 @@
  <img src="https://komarev.com/ghpvc/?username=johnwise" alt="visitor counter" width="15%"/>
 <!-- <p align="center">  </p> -->
 
-### What I'm using ? 🛠
+### 
+
+
+? 🛠
  
 Amazon Web Services & DevOps Tools are my choices.
 
-Continuous learning, development and sharing is a lifestyle for me..
+Continuous learning, development and sharing is a passion and lifestyle for me..
 
 For information sharing or creating a collaborative project or any assist I can provide, please contact me on LinkedIn.
 
